@@ -1,4 +1,4 @@
 # bootstrap-quiz
-Technologies: HTML, Bootstrap, Java Script
+Technologies: HTML, Bootstrap, JavaScript
 
 https://tomaszwachnik.github.io/bootstrap-quiz/
